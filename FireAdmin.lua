@@ -34,7 +34,7 @@ gettingGOBinfo=0
 gettingGOBinfoinfo=0
 
 MAJOR_VERSION = "FireAdmin-5.4.8"
-MINOR_VERSION = "50"
+MINOR_VERSION = "52"
 ROOT_PATH     = "Interface\\AddOns\\FireAdmin\\"
 local cont = ""
 if not AceLibrary then error(MAJOR_VERSION .. " requires AceLibrary") end

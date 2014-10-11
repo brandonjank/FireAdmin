@@ -1,5 +1,12 @@
 FireAdmin Changelog
 
+-=[ Revision 52 - 10/11/2014]=-
+- Added a toc for noobs that don't use git to keep add-on updated.
+
+-=[ Revision 51 - 10/11/2014]=-
+- Updated icons and logo.
+- Removed unnecessary assets.
+
 -=[ Revision 50 - 10/11/2014]=-
 - Way too much to list.
 - All globals, "event", "argX" code re-factored.
