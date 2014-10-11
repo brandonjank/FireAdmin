@@ -1,7 +1,10 @@
 FireAdmin Changelog
 
+-=[ Revision 53 - 10/11/2014]=-
+- Updated sounds to ogg format per 4.x+ audio format requirements.
+
 -=[ Revision 52 - 10/11/2014]=-
-- Added a toc for noobs that don't use git to keep add-on updated.
+- Added a toc for noobs that don't use a git client to keep add-on updated.
 
 -=[ Revision 51 - 10/11/2014]=-
 - Updated icons and logo.

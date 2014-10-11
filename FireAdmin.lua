@@ -913,7 +913,7 @@ function MangAdmin:AddMessage(frame, text, r, g, b, id)
     -- hook all new tickets
     for name in string.gmatch(text, Strings["ma_GmatchNewTicket"]) do
       self:SetIcon(ROOT_PATH.."Textures\\icon2.tga")
-      PlaySoundFile(ROOT_PATH.."Sound\\mail.wav")
+      PlaySoundFile(ROOT_PATH.."Sound\\mail.ogg")
       self:LogAction("Got new ticket from: "..name)
     end
     -- hook player account info
